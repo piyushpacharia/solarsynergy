@@ -1,4 +1,4 @@
-  =>  Template Name    : SolarSynergy
+  =>  Template Name    : SolarIndia
 
   =>  Template Link    : https://htmlcodex.com/renewable-energy-website-template
 
